@@ -10,5 +10,6 @@
 > - [[Git]](./git-branch.md) 브런치에 관한 모든 것
 > - [[Git]](./git-merge.md) 머지란 ? 🚨
 > - [[Git]](./git-project.md) 깃허브 프로젝트 사직하기
+> - [[Git]](./git-pull-request.md) 깃허브 프로젝트 기여하기
 > - [[Git]](./git-gitignore.md) 버전에서 관리하지 않을 파일들
 > - [[TIL]](./TIL.md) TIL이란 ?
