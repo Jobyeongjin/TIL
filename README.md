@@ -8,4 +8,5 @@
 > - [[Git]](./git-start.md) 깃허브에 파일 올리는 과정
 > - [[Git]](./git-log.md) 버전 목록 확인하기
 > - [[Git]](./git-branch.md) 브런치에 관한 모든 것
+> - [[Git]](./git-merge.md) 머지란? 🚨
 > - [[TIL]](./TIL.md) TIL이란?
