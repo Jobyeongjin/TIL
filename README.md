@@ -10,7 +10,7 @@
 > - [[Git]](./mds/gits/git-log.md) 버전 목록 확인하기
 > - [[Git]](./mds/gits/git-branch.md) 브런치에 관한 모든 것
 > - [[Git]](./mds/gits/git-merge.md) 머지란 ? 🚨
-> - [[Git]](./mds/gits/git-project.md) 깃허브 프로젝트 사직하기
+> - [[Git]](./mds/gits/git-project.md) 깃허브 프로젝트 시작하기
 > - [[Git]](./mds/gits/git-pull-request.md) 깃허브 프로젝트 기여하기
 > - [[Git]](./mds/gits/git-gitignore.md) 버전에서 관리하지 않을 파일들
 
