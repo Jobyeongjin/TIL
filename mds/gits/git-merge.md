@@ -44,7 +44,7 @@
   - 수동으로 할 때와 동일한 문자열
   - 위에 조그만한 버튼을 사용해 간편하게 해결
 
-![](./git-start.assets/merge-1.png)
+![](../../git-start.assets/merge-1.png)
 
 - 버튼은 순차적으로 설명
   - 현재 브런치의 내용을 선택 (초록줄, HEAD)

@@ -5,12 +5,12 @@
 <br />
 
 1. 참여하고 싶은 프로젝트의 저장소에서 포크하기 (왼쪽 상단)
-   ![](./git-start.assets/request-1.png)
+   ![](../../git-start.assets/request-1.png)
 
 <br />
 
 2. 포크 한 뒤에 저장소 위치 확인 (오른쪽 상단)
-   ![](./git-start.assets/request-2.png)
+   ![](../../git-start.assets/request-2.png)
 
 <br />
 
