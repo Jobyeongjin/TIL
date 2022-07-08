@@ -9,7 +9,7 @@ git config --global user.name "이름입력"
 git config --global user.email "이메일주소입력"
 ```
 
-![스크린샷_2022-06-15_오후_11.00.41](git-start.assets/스크린샷_2022-06-15_오후_11.00.41.png)
+![스크린샷_2022-06-15_오후_11.00.41](../../git-start.assets/git-start.assets/스크린샷_2022-06-15_오후_11.00.41.png)
 
 ### git init
 
