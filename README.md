@@ -11,37 +11,36 @@
 > - [Git](#git)
 > - [HTML](#html)
 > - [Python](#python)
-> - [...](#번외편-💭)
 
 <br />
 
 ## **Git**
 
-> - [[Git]](./mds/git/git-start.md) 깃허브에 파일 올리는 과정
-> - [[Git]](./mds/git/git-log.md) 버전 목록 확인하기
-> - [[Git]](./mds/git/git-branch.md) 브런치에 관한 모든 것
-> - [[Git]](./mds/git/git-merge.md) 머지란 ? 🚨
-> - [[Git]](./mds/git/git-project.md) 깃허브 프로젝트 시작하기
-> - [[Git]](./mds/git/git-pull-request.md) 깃허브 프로젝트 기여하기
-> - [[Git]](./mds/git/git-gitignore.md) 버전에서 관리하지 않을 파일들
+> - [깃허브에 파일 올리는 과정](./mds/git/git-start.md)
+> - [버전 목록 확인하기](./mds/git/git-log.md)
+> - [브런치에 관한 모든 것](./mds/git/git-branch.md)
+> - [머지란 ? 🚨](./mds/git/git-merge.md)
+> - [깃허브 프로젝트 시작하기](./mds/git/git-project.md)
+> - [깃허브 프로젝트 기여하기](./mds/git/git-pull-request.md)
+> - [버전에서 관리하지 않을 파일들](./mds/git/git-gitignore.md)
 
 <br />
 
 ## **HTML**
 
-> - [[HTML]](./mds/html/tag.md) HTML 태그 모음 & 요약
+> - [HTML 태그 모음 & 요약](./mds/html/tag.md)
 
 <br />
 
 ## **Python**
 
-> - [[Python]](./mds/python/py-start.md) 파이썬 시작하기
-> - [[Python]](./mds/python/py-sequence.md) 시퀀스 타입이란 ?
-> - [[Python]](./mds/python/py-if.md) 제어문
+> - [파이썬 시작하기](./mds/python/py-start.md)
+> - [시퀀스 타입이란 ?](./mds/python/py-sequence.md)
+> - [제어문](./mds/python/py-if.md)
 
 <br />
 
 ## **번외편** 💭
 
-> - [[마크다운]](./mds/markdown.md) 사용법
-> - [[TIL]](./mds/TIL.md) TIL이란 ?
+> - [마크다운 사용법](./mds/markdown.md)
+> - [TIL이란 ?](./mds/TIL.md)
