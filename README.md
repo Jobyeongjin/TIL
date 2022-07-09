@@ -10,7 +10,10 @@
 
 > - [Git](#git)
 > - [HTML](#html)
+> - [Python](#python)
 > - [...](#번외편-💭)
+
+<br />
 
 ## **Git**
 
@@ -22,9 +25,21 @@
 > - [[Git]](./mds/git/git-pull-request.md) 깃허브 프로젝트 기여하기
 > - [[Git]](./mds/git/git-gitignore.md) 버전에서 관리하지 않을 파일들
 
+<br />
+
 ## **HTML**
 
 > - [[HTML]](./mds/html/tag.md) HTML 태그 모음 & 요약
+
+<br />
+
+## **Python**
+
+> - [[Python]](./mds/python/py-start.md) 파이썬 시작하기
+> - [[Python]](./mds/python/py-sequence.md) 시퀀스 타입이란 ?
+> - [[Python]](./mds/python/py-if.md) 제어문
+
+<br />
 
 ## **번외편** 💭
 
