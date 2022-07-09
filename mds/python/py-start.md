@@ -73,6 +73,13 @@ print(x + int(y))  #  y 를 숫자로 변환
 
 <br />
 
+#### **모듈이란 ?**
+
+- 자세한 내용은 [여기](https://formal.hknu.ac.kr/ProgInPython/notebooks/PiPy06B-ModulesAndPackages.html)
+- 간략한 내용은 [여기](https://blockdmask.tistory.com/542)
+
+<br />
+
 #### 📚 참조
 
 - 파이썬 도서관 자료가 궁금하다면 [클릭](https://docs.python.org/3/library/)

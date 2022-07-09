@@ -1,26 +1,26 @@
 # 목록 태그 모음
 
 ```html
+🔸 순서가 있는 목록 (ordered list)
 <ol>
-  🔸 순서가 있는 목록 (ordered list)
   <li></li>
   <li></li>
 </ol>
 
+🔸 순서가 없는 목록 (unordered list)
 <ul>
-  🔸 순서가 없는 목록 (unordered list)
   <li></li>
   <li></li>
 </ul>
 
+🔸 설명 목록
 <dl>
-  🔸 설명 목록
   <dt>이름</dt>
   <dd>설명</dd>
 </dl>
 
+🔸 테이블 목록
 <table>
-  🔸 테이블 목록
   <tr>
     🔸 행
     <td>1행 1열</td>
