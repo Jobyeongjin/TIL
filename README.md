@@ -37,6 +37,7 @@
 > - [파이썬 시작하기](./mds/python/py-start.md)
 > - [시퀀스 타입이란 ?](./mds/python/py-sequence.md)
 > - [제어문](./mds/python/py-if.md)
+> - [함수 정의하기](./mds/python/py-function.md)
 
 <br />
 
