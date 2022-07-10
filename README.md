@@ -47,6 +47,8 @@
 > - [시퀀스 타입이란 ?](./mds/python/py-sequence.md)
 > - [제어문](./mds/python/py-if.md)
 > - [함수 정의하기](./mds/python/py-function.md)
+> - [클래스와 객체란 ?](./mds/python/py-class.md)
+> - [예외처리](./mds/python/py-except.md)
 
 <br />
 
