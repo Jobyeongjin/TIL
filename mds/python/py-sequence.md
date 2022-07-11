@@ -99,7 +99,7 @@ days = ('Mon', 'Tue', 'Wed', 'Thu', 'Fri')  #  튜플은 리스트와 동일하�
 
 #### > **딕셔너리**
 
-- 순서가 없는 컬렉션
+- `순서가 없는` 컬렉션
 
 ```python
 people = {  #  딕셔너리는 '키':밸류로 구성
@@ -109,9 +109,53 @@ people = {  #  딕셔너리는 '키':밸류로 구성
   'fav_food': ['불고기','김치찌개']
 }
 
-print(people['name'])  #  접근을 키로
+print(people['name'])  #  접근을 '키' 로
 people['handsome'] = Ture  #  다음 출력에서는 키와 밸류 추가
 print(people)  #  여기서 추가된 핸섬을 결과로 확인
+```
+
+<br />
+
+#### > **레인지**
+
+- 숫자의 시퀀스를 나타내기 위해 사용
+
+```python
+numbers = range(5)
+
+print(list(numbers))  #  [0, 1, 2, 3, 4, 5]
+
+list(range(6, 1, -1))  #  6부터 1까지, -1씩
+list(range(6, 1, 1))  #  6부터 1까지, 1씩 증가니까 결과는 비어있음
+
+range(n)
+range(n, m)  #  n 이상 m 미만
+range(n, m, s)
+```
+
+<br />
+
+#### > **세트**
+
+- `컬렉션` : 유일한 값들의 모음
+- `순서가 없음`
+- `중복된 값이 없음`
+- 빈 중괄호는 쓰지 않기
+  - 빈 중괄호는 딕셔너리에게 양보 🚨
+
+```python
+set_a = {1, 2, 3, 1, 1}
+set_b = {'hi', 1, 2}
+
+print(set_a)  #  {1, 2, 3}
+print(set_b)  #  {1, 2, 'hi'}
+
+🔸 활용 예시
+# 지역의 갯수 구하기
+
+locations = ['서울', '서울', '대구', '제주', '부산', '대구', '광주', '인천', '부산']
+print(set(locations)) #  {'광주', '대구', '서울', '부산', '제주', '인천'}
+print(len(set(locations)))  #  6
 ```
 
 <br />
@@ -120,6 +164,7 @@ print(people)  #  여기서 추가된 핸섬을 결과로 확인
 
 ```python
 리스트.append()  #  요소 추가
+리스트.pop(위치)  #  요소 제거
 리스트.sort()  #  정렬
 리스트.reverse()  #  순서 뒤집기
 리스트.index()  #  위치 확인
