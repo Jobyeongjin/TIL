@@ -1,12 +1,12 @@
 # [ Python ] 시작하기
 
-- 파이썬은 다른 언어와 다르게 특정 부분을 구분하기 위해 ; 이나 { } 등 기호로 시작과 끝을 표현하는 것이 아닌 `들여쓰기` 로 표기
+- 파이썬은 다른 언어와 다르게 특정 부분을 구분하기 위해 ; 이나 { } 등 기호로 시작과 끝을 표현하는 것이 아닌 `들여쓰기` 로 구분
 
 - 변수 이름에는 공백이 없어야 하고, `소문자` 로 작성하며, 여러 단어일 경우 `snake_case` 로 작성
 
   - 예시 : super_long_name
 
-#### **타입**
+#### **타입의 종류**
 
 ```python
 a = 100  #  정수
@@ -25,11 +25,13 @@ x = 1
 y = 2
 z = 1.2
 
-print(x + y)  #  덧셈, 3
-print(x - y)  #  뺄셈, -1
-print(x * y)  #  곱하기, 2
-print(x % y)  #  나누기, 1
-print(x ** y)  #  제곱, 1
+print(x + y)  #  덧셈
+print(x - y)  #  뺄셈
+print(x * y)  #  곱하기
+print(x / y)  #  나누기
+print(x ** y)  #  제곱
+print(x // y)  #  몫
+print(x % y)  #  나누기의 나머지
 
 x = 4
 y = '4'
@@ -85,3 +87,5 @@ print(x + int(y))  #  y 를 숫자로 변환
 - 파이썬 도서관 자료가 궁금하다면 [클릭](https://docs.python.org/3/library/)
   - 한국어가 최고라고 생각한다면 [클릭](https://docs.python.org/ko/3/tutorial/index.html)
 - 연산자가 궁금하다면 [클릭](https://gostart.tistory.com/206)
+
+<br />
