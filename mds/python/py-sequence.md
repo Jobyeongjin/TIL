@@ -128,9 +128,9 @@ print(list(numbers))  #  [0, 1, 2, 3, 4, 5]
 list(range(6, 1, -1))  #  6부터 1까지, -1씩
 list(range(6, 1, 1))  #  6부터 1까지, 1씩 증가니까 결과는 비어있음
 
-range(n)
+range(n)  #  ~n 까지
 range(n, m)  #  n 이상 m 미만
-range(n, m, s)
+range(n, m, s)  #  n 이상 m 미만 일정 간격으로
 ```
 
 <br />
