@@ -12,4 +12,4 @@
 
 ## **아스키 표**
 
-![](./git-start.assets/ascii.png)
+![](../../git-start.assets/ascii.png)

@@ -56,6 +56,6 @@
 
 ## **번외편** 💭
 
-> - [마크다운 사용법](./mds/markdown.md)
-> - [TIL이란 ?](./mds/TIL.md)
-> - [아스키 코드란 ?](./mds/ascii.md)
+> - [마크다운 사용법](./mds/besides/markdown.md)
+> - [TIL이란 ?](./mds/besides/TIL.md)
+> - [아스키 코드란 ?](./mds/besides/ascii.md)
