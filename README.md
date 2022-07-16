@@ -28,12 +28,12 @@
 > - [깃허브에 파일 올리는 과정](./mds/git/git-start.md)
 > - [버전 목록 확인하기](./mds/git/git-log.md)
 > - [브런치에 관한 모든 것](./mds/git/git-branch.md)
-> - [머지란 ? 🚨](./mds/git/git-merge.md)
+> - [🚨 머지란 ?](./mds/git/git-merge.md)
 > - [깃허브 프로젝트 시작하기](./mds/git/git-project.md)
 > - [깃허브 프로젝트 기여하기](./mds/git/git-pull-request.md)
 > - [버전에서 관리하지 않을 파일들](./mds/git/git-gitignore.md)
 > - [원격 저장소에 올라간 파일 삭제하기](./mds/git/git-delete.md)
-> - [깃을 취소하는 방법은 ? 🚨](./mds/git/git-cancel.md)
+> - [🚨 깃을 취소하는 방법은 ?](./mds/git/git-cancel.md)
 
 <br />
 
@@ -51,6 +51,8 @@
 > - [함수 정의하기](./mds/python/py-function.md)
 > - [클래스와 객체란 ?](./mds/python/py-class.md)
 > - [예외처리](./mds/python/py-except.md)
+> - [📚 내장함수]()
+>   - [파일 읽기와 쓰기](./mds/python/librery/in/open.md)
 > - [📚 표준 라이브러리]()
 >   - [시작하기](./mds/python/librery/py-li-start.md)
 >   - [날짜와 시간](./mds/python/librery/py-li-datetime.md)

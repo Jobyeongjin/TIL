@@ -34,6 +34,20 @@ random.shuffle(n)
 print(n)
 ```
 
+```python
+import random
+
+# 로또 번호 자동으로 뽑기
+n = int(input())
+
+for i in range(n):
+    # 1부터 45까지 반복, 6개의 숫자 뽑기
+    numbers = random.sample(range(1, 46), 6)
+    # 순차적으로 정력
+    numbers.sort()
+    print(numbers)
+```
+
 <br />
 
 #### 📚 참조
