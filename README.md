@@ -51,6 +51,8 @@
 > - [함수 정의하기](./mds/python/py-function.md)
 > - [클래스와 객체란 ?](./mds/python/py-class.md)
 > - [예외처리](./mds/python/py-except.md)
+> - [📚 표준 라이브러리]()
+>   - [시작하기](./mds/python/librery/py-li-start.md)
 
 <br />
 
