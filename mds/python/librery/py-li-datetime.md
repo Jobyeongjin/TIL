@@ -1,4 +1,4 @@
-# [Python] datetime
+# [Python] 날짜와 시간
 
 ### **`datetime`**
 
