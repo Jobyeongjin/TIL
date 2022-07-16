@@ -10,13 +10,15 @@
 
 <br />
 
-### **모듈을 가져오려면...**
+### **모듈 가져오기**
 
 - `import` 사용
 
 ```python
 # 모듈 전체
 import 모듈
+또는
+from 모듈 import *
 
 # 여러 개는 콤마로 구분
 import 모듈, 모듈
@@ -29,6 +31,31 @@ import 모듈 as 바꿀이름
 
 # 변수 또는 함수에 이름 지정
 from 모듈 import 변수 또는 함수 as 바꿀이름
+```
+
+<br />
+
+### **모듈 사용하기**
+
+```python
+# 모듈만 불러온 경우
+import 모듈
+
+a = 모듈.함수()
+print(a)
+
+# 필요한 모듈만 불러온 경우
+from 모듈 import 함수
+
+a = 함수()
+print(a)
+
+# 이름을 지정한 경우
+
+from 모듈 import 함수 as 이름
+
+a = 이름()
+print(a)
 ```
 
 <br />

@@ -53,6 +53,7 @@
 > - [예외처리](./mds/python/py-except.md)
 > - [📚 표준 라이브러리]()
 >   - [시작하기](./mds/python/librery/py-li-start.md)
+>   - [datetime](./mds/python/librery/py-li-datetime.md)
 
 <br />
 
