@@ -32,6 +32,7 @@
 > - [깃허브 프로젝트 시작하기](./mds/git/git-project.md)
 > - [깃허브 프로젝트 기여하기](./mds/git/git-pull-request.md)
 > - [버전에서 관리하지 않을 파일들](./mds/git/git-gitignore.md)
+> - [원격 저장소에 올라간 파일 삭제하기](./mds/git/git-delete.md)
 
 <br />
 
