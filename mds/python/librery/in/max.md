@@ -39,3 +39,9 @@ for i in n:
 
 print(min)
 ```
+
+<br />
+
+#### 📚 참조
+
+- 자세한 내용이 궁금하다면 [클릭](https://docs.python.org/ko/3/library/functions.html#max)

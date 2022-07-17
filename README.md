@@ -57,6 +57,7 @@
 >   - [파일 읽기와 쓰기](./mds/python/librery/in/open.md)
 > - [📚 표준 라이브러리]()
 >   - [시작하기](./mds/python/librery/py-li-start.md)
+>   - [예쁘게 출력하기](./mds/python/librery/py-pprint.md)
 >   - [날짜와 시간](./mds/python/librery/py-li-datetime.md)
 >   - [랜덤](./mds/python/librery/py-li-random.md)
 
