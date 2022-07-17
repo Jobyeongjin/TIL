@@ -52,6 +52,7 @@
 > - [클래스와 객체란 ?](./mds/python/py-class.md)
 > - [예외처리](./mds/python/py-except.md)
 > - [📚 내장함수]()
+>   - [map 이란 ?](./mds/python/librery/in/map.md)
 >   - [최댓값 최솟값](./mds/python/librery/in/max.md)
 >   - [파일 읽기와 쓰기](./mds/python/librery/in/open.md)
 > - [📚 표준 라이브러리]()
