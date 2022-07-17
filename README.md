@@ -53,11 +53,12 @@
 > - [예외처리](./mds/python/py-except.md)
 > - [📚 내장함수]()
 >   - [map 이란 ?](./mds/python/librery/in/map.md)
->   - [최댓값 최솟값](./mds/python/librery/in/max.md)
+>   - [최댓값과 최솟값](./mds/python/librery/in/max.md)
 >   - [파일 읽기와 쓰기](./mds/python/librery/in/open.md)
 > - [📚 표준 라이브러리]()
 >   - [시작하기](./mds/python/librery/py-li-start.md)
 >   - [예쁘게 출력하기](./mds/python/librery/py-pprint.md)
+>   - [JSON](./mds/python/librery/py-json.md)
 >   - [날짜와 시간](./mds/python/librery/py-li-datetime.md)
 >   - [랜덤](./mds/python/librery/py-li-random.md)
 
