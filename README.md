@@ -55,6 +55,7 @@
 > - [함수 정의하기](./mds/python/py-function.md)
 > - [클래스와 객체란 ?](./mds/python/py-class.md)
 > - [예외처리](./mds/python/py-except.md)
+> - [에러와 디버깅](./mds/python/py-error.md)
 > - [📚 내장함수]()
 >   - [map 이란 ?](./mds/python/librery/in/map.md)
 >   - [최댓값과 최솟값](./mds/python/librery/in/max.md)
