@@ -59,6 +59,7 @@
 > - [📚 내장함수]()
 >   - [객체의 길이](./mds/python/librery/in/len.md)
 >   - [요소의 총 개수](./mds/python/librery/in/count.md)
+>   - [요소를 추가하는 함수들](./mds/python/librery/in/append.md)
 >   - [최댓값과 최솟값](./mds/python/librery/in/max.md)
 >   - [파일 읽기와 쓰기](./mds/python/librery/in/open.md)
 >   - [map 이란 ?](./mds/python/librery/in/map.md)
