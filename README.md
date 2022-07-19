@@ -54,6 +54,7 @@
 > - [제어문](./mds/python/py-if.md)
 > - [함수 정의하기](./mds/python/py-function.md)
 > - [클래스와 객체란 ?](./mds/python/py-class.md)
+>   - [객체지향 프로그래밍](./mds/python/py-oop.md)
 > - [예외처리](./mds/python/py-except.md)
 > - [에러와 디버깅](./mds/python/py-error.md)
 > - [📚 내장함수]()
