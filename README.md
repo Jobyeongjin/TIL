@@ -48,6 +48,7 @@
 
 > - [파이썬 시작하기](./mds/python/py-start.md)
 > - [시퀀스 타입이란 ?](./mds/python/py-sequence.md)
+>   - [문자열 포맷팅](./mds/python/py-format.md)
 >   - [dictionary](./mds/python/py-dictionary.md)
 >   - [list](./mds/python/py-list.md)
 >   - [set](./mds/python/py-set.md)
