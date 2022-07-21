@@ -40,6 +40,8 @@ print(n)
 {i: i**3 for i in range(1, 4)}
 ```
 
+---
+
 <br />
 
 ## **lambda [parameter] : 표현식**
@@ -100,6 +102,8 @@ print(list(map(multiple_3, n)))
 n = [1, 2, 5, 10, 3, 9, 12]
 print(list(map(lambda i: i*3, n)))
 ```
+
+---
 
 <br />
 

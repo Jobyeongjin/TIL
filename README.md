@@ -59,6 +59,7 @@
 > - [예외처리](./mds/python/py-except.md)
 > - [에러와 디버깅](./mds/python/py-error.md)
 > - [파이썬 응용 심화](./mds/python/py-deep.md)
+> - [가상환경](./mds/python/py-venv.md)
 > - [📚 내장함수]()
 >   - [객체의 길이](./mds/python/librery/in/len.md)
 >   - [반올림](./mds/python/librery/in/round.md)
