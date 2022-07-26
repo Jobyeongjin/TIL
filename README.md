@@ -8,10 +8,17 @@
 
 ## **카테고리**
 
+> - [Algorithm](#algorithm)
 > - [CSS](#css)
 > - [Git](#git)
 > - [HTML](#html)
 > - [Python](#python)
+
+<br />
+
+## **Algorithm**
+
+> - [시간복잡도](./mds/algorithm/time_complexity.md)
 
 <br />
 
@@ -52,9 +59,10 @@
 >     - [포맷팅](./mds/python/py-format.md)
 >     - [대소문자 바꾸기](./mds/python/py-upper.md)
 >     - [합치기 나누기](./mds/python/py-split.md)
->   - [dictionary](./mds/python/py-dictionary.md)
->   - [list](./mds/python/py-list.md)
->   - [set](./mds/python/py-set.md)
+>   - [딕셔너리](./mds/python/py-dictionary.md)
+>   - [리스트](./mds/python/py-list.md)
+>     - [정렬하기](./mds/python/py-sort.md)
+>   - [중복 제거](./mds/python/py-set.md)
 > - [제어문](./mds/python/py-if.md)
 > - [함수 정의하기](./mds/python/py-function.md)
 > - [클래스와 객체란 ?](./mds/python/py-class.md)
