@@ -20,6 +20,7 @@
 
 > - [알고리즘과 코딩테스트](./mds/besides/algorithm.md)
 > - [시간복잡도](./mds/algorithm/time_complexity.md)
+> - [문자열](./mds/algorithm/str.md)
 
 <br />
 
