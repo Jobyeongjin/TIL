@@ -90,6 +90,7 @@
 >   - [JSON](./mds/python/librery/py-json.md)
 >   - [날짜와 시간](./mds/python/librery/py-li-datetime.md)
 >   - [랜덤](./mds/python/librery/py-li-random.md)
+> - [비트 연산자](./mds/python/py-bit.md)
 
 <br />
 
