@@ -62,6 +62,7 @@
 >     - [포맷팅](./mds/python/py-format.md)
 >     - [대소문자 바꾸기](./mds/python/py-upper.md)
 >     - [합치기 나누기](./mds/python/py-split.md)
+>     - [문자열 변경](./mds/python/py-replace.md)
 >   - [딕셔너리](./mds/python/py-dictionary.md)
 >   - [리스트](./mds/python/py-list.md)
 >     - [정렬하기](./mds/python/py-sort.md)
