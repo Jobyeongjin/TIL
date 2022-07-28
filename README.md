@@ -19,8 +19,9 @@
 ## **Algorithm**
 
 > - [알고리즘과 코딩테스트](./mds/besides/algorithm.md)
-> - [시간복잡도](./mds/algorithm/time_complexity.md)
+> - [시간복잡도 & 리스트](./mds/algorithm/time_complexity.md)
 > - [문자열](./mds/algorithm/str.md)
+> - [해시 테이블](./mds/algorithm/dict.md)
 
 <br />
 
