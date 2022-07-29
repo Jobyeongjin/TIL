@@ -22,6 +22,7 @@
 > - [시간복잡도 & 리스트](./mds/algorithm/time_complexity.md)
 > - [문자열](./mds/algorithm/str.md)
 > - [해시 테이블](./mds/algorithm/dict.md)
+> - [컴퓨터적 사고](./mds/algorithm/py-think.md)
 
 <br />
 
