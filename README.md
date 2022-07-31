@@ -102,3 +102,4 @@
 > - [마크다운 사용법](./mds/besides/markdown.md)
 > - [TIL이란 ?](./mds/besides/TIL.md)
 > - [아스키 코드란 ?](./mds/besides/ascii.md)
+> - [Base64 인코딩](./mds/besides/base64.md)
