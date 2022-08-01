@@ -23,6 +23,7 @@
 > - [문자열](./mds/algorithm/str.md)
 > - [해시 테이블](./mds/algorithm/dict.md)
 > - [컴퓨터적 사고](./mds/algorithm/py-think.md)
+> - [스택과 큐](./mds/algorithm/stack.md)
 
 <br />
 
