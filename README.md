@@ -88,6 +88,7 @@
 >   - [최댓값과 최솟값](./mds/python/librery/in/max.md)
 >   - [파일 읽기와 쓰기](./mds/python/librery/in/open.md)
 >   - [map 이란 ?](./mds/python/librery/in/map.md)
+>   - [숫자 범위](./mds/python/librery/in/range.md)
 > - [📚 표준 라이브러리]()
 >   - [시작하기](./mds/python/librery/py-li-start.md)
 >   - [예쁘게 출력하기](./mds/python/librery/py-pprint.md)
