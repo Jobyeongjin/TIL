@@ -30,7 +30,7 @@ matrix = [
 ]
 
 for i in range(3): # 행
-	for j in range(4): # 열
+  for j in range(4): # 열
     print(matrix[i][j], end=' ') # 좌표 (i, j)
   print()
 
@@ -74,7 +74,7 @@ matrix = [
 ]
 
 for i in range(4): # 열
-	for j in range(3): # 행
+  for j in range(3): # 행
     print(matrix[j][i], end=' ')
   print()
 
@@ -107,7 +107,7 @@ print(total)
 matrix = [
   [1, 1, 1, 1],
   [1, 1, 1, 1],
-	[1, 1, 1, 1]
+  [1, 1, 1, 1]
 ]
 
 n = len(matrix)
@@ -126,12 +126,12 @@ print(total)
 matrix = [
   [1, 1, 1, 1],
   [1, 1, 1, 1],
-	[1, 1, 1, 1]
+  [1, 1, 1, 1]
 ]
 
 total = 0
 for row in matrix:
-  	total += sum(row)
+    total += sum(row)
 
 print(total)
 >>> 12
@@ -283,5 +283,3 @@ for i in range(n):
   for j in range(n):
     rotated_matrix[i][j] = matrix[n - j - 1][i]
 ```
-
----
