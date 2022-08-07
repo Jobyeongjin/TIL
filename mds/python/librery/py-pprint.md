@@ -35,6 +35,23 @@ pprint(파일, sort_dicts=False)
 
 <br />
 
+### **직접 만들기**
+
+- 배열이 짧으면 안되는 경우가 있기 때문
+
+```python
+arr = [[1, 2], [3, 4]]
+
+def pprint(list_):
+    for row in list_:
+        print(row)
+
+
+pprint(arr)
+```
+
+<br />
+
 #### 📚 참조
 
 - 자세한 내용이 궁금하다면 [클릭](https://docs.python.org/ko/3/library/pprint.html)
