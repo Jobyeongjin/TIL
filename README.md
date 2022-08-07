@@ -100,6 +100,7 @@
 > - [비트 연산자](./mds/python/pybit.md)
 > - [리스트 컴프리헨션 & 한줄 코드](./mds/python/py-compre.md)
 > - [별표 \*](./mds/python/py-asterisk.md)
+> - [델타탐색](./mds/python/py-delta.md)
 
 <br />
 
