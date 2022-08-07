@@ -101,6 +101,7 @@
 > - [리스트 컴프리헨션 & 한줄 코드](./mds/python/py-compre.md)
 > - [별표 \*](./mds/python/py-asterisk.md)
 > - [델타탐색](./mds/python/py-delta.md)
+> - [익명함수](./mds/python/py-lambda.md)
 
 <br />
 
