@@ -27,6 +27,7 @@
 > - [힙과 셋](./mds/algorithm/heap.md)
 > - [이차원 리스트](./mds/algorithm/2list.md)
 >   - [순회 전치 회전](./mds/algorithm/tour.md)
+>   - [완전 탐색](/mds/algorithm/search.md)
 
 <br />
 
