@@ -28,6 +28,7 @@
 > - [이차원 리스트](./mds/algorithm/2list.md)
 >   - [순회 전치 회전](./mds/algorithm/tour.md)
 >   - [완전 탐색](/mds/algorithm/search.md)
+> - [그래프](./mds/algorithm/graph.md)
 
 <br />
 
