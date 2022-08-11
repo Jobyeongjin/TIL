@@ -30,6 +30,7 @@
 >   - [완전 탐색](/mds/algorithm/search.md)
 > - [그래프](./mds/algorithm/graph.md)
 > - [DFS](./mds/algorithm/dfs.md)
+> - [코딩테스트 준비](./mds/algorithm/cote.md)
 
 <br />
 
