@@ -45,7 +45,8 @@
 
 ## **DB**
 
-> - [데이터베이스(DB)란 ?](./mds/database/database.md)
+> - [데이터베이스(DB)란 ?](./mds/database/db.md)
+>   - [(예습)](./mds/database/database.md)
 
 <br />
 
