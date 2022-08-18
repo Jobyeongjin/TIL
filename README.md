@@ -48,6 +48,7 @@
 > - [데이터베이스(DB)란 ?](./mds/database/db.md)
 >   - [예습 /](./mds/database/database.md) [복습](./mds/database/db02.md)
 > - [WHERE](./mds/database/where.md)
+> - [GROUP BY](./mds/database/gorupby.md)
 
 <br />
 
