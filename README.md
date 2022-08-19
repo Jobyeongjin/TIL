@@ -49,6 +49,7 @@
 >   - [예습 /](./mds/database/database.md) [복습](./mds/database/db02.md)
 > - [WHERE](./mds/database/where.md)
 > - [GROUP BY](./mds/database/gorupby.md)
+> - [CASE & SubQuery](./mds/database/case.md)
 
 <br />
 
