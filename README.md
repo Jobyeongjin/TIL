@@ -50,6 +50,7 @@
 > - [WHERE](./mds/database/where.md)
 > - [GROUP BY](./mds/database/gorupby.md)
 > - [CASE & SubQuery](./mds/database/case.md)
+> - [JOIN](./mds/database/join.md)
 
 <br />
 
