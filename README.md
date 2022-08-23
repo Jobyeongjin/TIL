@@ -46,11 +46,13 @@
 ## **DB**
 
 > - [데이터베이스(DB)란 ?](./mds/database/db.md)
->   - [예습 /](./mds/database/database.md) [복습](./mds/database/db02.md)
+>   - [Before /](./mds/database/database.md) [After](./mds/database/db02.md)
 > - [WHERE](./mds/database/where.md)
 > - [GROUP BY](./mds/database/gorupby.md)
 > - [CASE & SubQuery](./mds/database/case.md)
 > - [JOIN](./mds/database/join.md)
+> - [모델링](./mds/database/modeling.md)
+>   - [After](./mds/database/modeling02.md)
 
 <br />
 
