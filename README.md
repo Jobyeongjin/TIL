@@ -14,7 +14,6 @@
 > - [Git](#git)
 > - [HTML](#html)
 > - [Python](#python)
-> - [번외](#번외편-💭)
 
 <br />
 
