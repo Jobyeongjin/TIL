@@ -14,6 +14,7 @@
 > - [Git](#git)
 > - [HTML](#html)
 > - [Python](#python)
+> - [번외](#번외편-💭)
 
 <br />
 
@@ -53,6 +54,7 @@
 > - [JOIN](./mds/database/join.md)
 > - [모델링](./mds/database/modeling.md)
 >   - [After](./mds/database/modeling02.md)
+> - [ORM](./mds/database/orm.md)
 
 <br />
 
@@ -130,3 +132,4 @@
 > - [TIL이란 ?](./mds/besides/TIL.md)
 > - [아스키 코드란 ?](./mds/besides/ascii.md)
 > - [Base64 인코딩](./mds/besides/base64.md)
+> - [단축키 모음 👍](./mds/besides/shortcut.md)
