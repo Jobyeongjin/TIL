@@ -133,3 +133,4 @@
 > - [아스키 코드란 ?](./mds/besides/ascii.md)
 > - [Base64 인코딩](./mds/besides/base64.md)
 > - [단축키 모음 👍](./mds/besides/shortcut.md)
+> - [학습 초기 FAQ](./mds/besides/FAQ.md)
