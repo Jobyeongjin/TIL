@@ -1,27 +1,28 @@
-# HTML 태그 모음 & 요약 정리
+# [HTML] 태그 모음 & 요약 정리 📝
 
 ```html
-<!DOCTYPE html> 🔸 웹 문서 유형을 html으로 지정
+<!-- 웹 문서 유형을 html으로 지정 -->
+<!DOCTYPE html>
+<!-- 언어는 한국어로 -->
 <html lang="ko">
-  🔸 언어는 한국어로
+  <!-- 웹 정보를 정의 -->
   <head>
-    🔸 웹 정보를 정의
+    <!-- 메타 데이터 입력 -->
     <meta charset="UTF-8" />
-    🔸 메타 데이터 입력
+    <!-- 문서의 제목 -->
     <title>Document</title>
-    🔸 문서의 제목
   </head>
   <body>
-    🔸 문서 내용 입력은 여기에 !
+    <!-- 문서 내용 입력 -->
   </body>
 </html>
 ```
 
 <br />
 
-> ### 레이아웃
+> ### 레이아웃 구성
 
-<br />
+ <br />
 
 ![](../../git-start.assets/htmls/tag-1.png)
 
@@ -51,7 +52,7 @@
 > ### 이미지 삽입
 
 - `<img src="이미지 파일 경로" alt="대체 텍스트">`
-- 관련 속성이 궁금하다면 [클릭](https://developer.mozilla.org/ko/docs/Web/HTML/Element/img)
+- 관련 속성이 궁금하다면 [클릭](./img.md)
 
 <br />
 
@@ -59,21 +60,22 @@
 
 - `<audio src="오디오 파일 경로"</audio>`
 - `<video src="비디오 파일 경로"></video>`
-- 오디오 속성이 궁금하다면 [클릭](https://developer.mozilla.org/ko/docs/Web/HTML/Element/audio)
-- 비디오 속성이 궁금하다면 [클릭](https://developer.mozilla.org/ko/docs/Web/HTML/Element/Video)
+- 오디오 속성이 궁금하다면 [클릭](./audio.md)
+- 비디오 속성이 궁금하다면 [클릭](./video.md)
 
 <br />
 
 > ### 하이퍼링크 삽입
 
 - `<a href="링크할 주소">텍스트 또는 이미지</a>`
+- 하이퍼링크 속성이 궁금하다면 [클릭](./a.md)
 
 <br />
 
 > ### 폼 삽입
 
 - `<form 속성="속성값">폼 입력 요소들</form>`
-- 폼 요소가 궁금하다면 [클릭](https://developer.mozilla.org/ko/docs/Web/HTML/Element/form)
+- 폼 요소가 궁금하다면 [클릭](./form.md)
 - 입력 요소가 궁금하다면 [클릭](https://developer.mozilla.org/ko/docs/Web/HTML/Element/Input)
 
 <br />
