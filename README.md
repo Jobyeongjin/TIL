@@ -76,6 +76,7 @@
 ## **HTML**
 
 > - [HTML 태그 모음 & 요약](./mds/html/tag.md)
+> - [WEB 구성 요소](./mds/html/web.md)
 
 <br />
 
