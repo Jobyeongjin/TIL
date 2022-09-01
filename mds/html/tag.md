@@ -1,40 +1,5 @@
 # [HTML] 태그 모음 & 요약 정리 📝
 
-```html
-<!-- 웹 문서 유형을 html으로 지정 -->
-<!DOCTYPE html>
-<!-- 언어는 한국어로 -->
-<html lang="ko">
-  <!-- 웹 정보를 정의 -->
-  <head>
-    <!-- 메타 데이터 입력 -->
-    <meta charset="UTF-8" />
-    <!-- 문서의 제목 -->
-    <title>Document</title>
-  </head>
-  <body>
-    <!-- 문서 내용 입력 -->
-  </body>
-</html>
-```
-
-<br />
-
-> ### 레이아웃 구성
-
- <br />
-
-![](../../git-start.assets/htmls/tag-1.png)
-
-```
-<header>  🔸  문서의 머리말 영역 표시
-<nav>  🔸  웹 안에서 분류된 다른 영역으로 이동할 때 사용
-<main>  🔸  메인 영역
-<section>  🔸  문서의 콘텐츠 영역
-<aside>  🔸  주요 콘텐츠 외 남은 콘텐츠 표시
-<footer>  🔸  사이트의 자세한 정보를 표시
-```
-
 <br />
 
 > ### 텍스트
