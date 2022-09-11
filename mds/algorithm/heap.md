@@ -143,22 +143,18 @@ print(numbers) # 0 3 5 10 4
 import heapq
 
 n = int(input())
-
 heap = []
-# heapq.heapify(heap)을 사용 안해도 된다!! pop, push만 잘하면 된다!!
 
 for _ in range(n):
-  	number = int(input())
-# numbers = [0, 12345678, 1, 2, 0, 0, 0, 0, 32]
+    number = int(input())
 
-    for number in numbers:
-        if number != 0:
-            heapq.heappush(heap, number)
+    if number != 0:
+        heapq.heappush(heap, number)
+    else:
+        if not heap:
+            print(0)
         else:
-            if len(heap):
-                print(0)
-            else:
-                print(heapq.heappop(heap))
+            print(heapq.heappop(heap))
 ```
 
 ---
