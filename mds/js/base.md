@@ -140,3 +140,11 @@
 | setAttribute(name, value)   | - 지정된 요소의 값을 설정<br />- 속성이 이미 존재하면 값을 갱신, 존재하지 않으면 지정된 이름과 값으로 새 속성을 추가 |      |
 | getAttribute(attributeName) | - 해당 요소의 지정된 값(문자열)을 반환<br />- 인자(attributeName)는 값을 얻고자 하는 속성의 이름                     |      |
 |                             |                                                                                                                      |      |
+
+<br />
+
+---
+
+#### **참조 📚**
+
+- 자세한 내용이 궁금하다면 [클릭](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps/What_is_JavaScript)

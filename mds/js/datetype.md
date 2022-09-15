@@ -134,3 +134,11 @@ text = '7' + 5; // string
 text = '8' / '2'; // number
 
 ```
+
+<br />
+
+---
+
+#### **참조 📚**
+
+- 자세한 내용이 궁금하다면 [클릭](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Grammar_and_types)

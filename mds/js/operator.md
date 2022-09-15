@@ -65,3 +65,11 @@
 | \|\|   | OR   |      |
 | !      | NOT  |      |
 |        |      |
+
+<br />
+
+---
+
+#### **참조 📚**
+
+- 자세한 내용이 궁금하다면 [클릭](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Expressions_and_Operators)
