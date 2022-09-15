@@ -13,6 +13,7 @@
 > - [DB](#DB)
 > - [Git](#git)
 > - [HTML](#html)
+> - [JavaScript](#javascript)
 > - [Python](#python)
 
 <br />
@@ -82,6 +83,12 @@
 > - [HTML 기초](./mds/html/web.md)
 > - [시맨틱 태그](./mds/html/semantic.md)
 > - [부트스트랩](./mds/html/bootstrap.md)
+
+<br />
+
+## **JavaScript**
+
+> - [자바스크립트 기초](./mds/js/base.md)
 
 <br />
 
