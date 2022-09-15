@@ -93,6 +93,7 @@
 > - [연산자](./mds/js/operator.md)
 > - [조건문](./mds/js/if.md)
 > - [반복문](./mds/js/for.md)
+> - [함수](./mds/js/function.md)
 
 <br />
 
