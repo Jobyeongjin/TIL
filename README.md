@@ -92,6 +92,7 @@
 > - [데이터 타입](./mds/js/datetype.md)
 > - [연산자](./mds/js/operator.md)
 > - [조건문](./mds/js/if.md)
+> - [반복문](./mds/js/for.md)
 
 <br />
 
