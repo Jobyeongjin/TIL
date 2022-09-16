@@ -145,6 +145,23 @@
 
 ---
 
+# [JS] ECMA Script 📝
+
+## **코딩 스타일 가이드 💭**
+
+- 코딩 스타일의 핵심은 `합의된 원칙과 일관성`
+  - 절대적인 하나의 정답은 없으며, 상황에 맞게 원칙을 정하고 일관성 있게 사용하는 것이 중요
+- 코딩 스타일은 코드의 품질에 직결되는 중요한 요소
+  - 코드의 가독성, 유지보수 또는 팀원과의 커뮤니케이션 등 개발 과정 전체에 영향을 끼침
+- `다양한 자바스크립트 코딩 스타일 가이드`
+  - [에어비앤비](https://github.com/airbnb/javascript)
+  - [구글](https://google.github.io/styleguide/jsguide.html)
+  - [스탠다드](https://standardjs.com/#javascript-style-guide-linter-and-formatter)
+
+<br />
+
+---
+
 #### **참조 📚**
 
 - 자세한 내용이 궁금하다면 [클릭](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps/What_is_JavaScript)

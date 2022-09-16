@@ -61,9 +61,31 @@
 
 ---
 
-# [JS] 데이터 구조 몇 형 📝
+# [JS] 데이터 구조 및 타입 📝
 
-## **데이터 형 💭**
+## **데이터 타입 💭**
+
+- 자바스크립트의 모든 값은 특정한 데이터 타입을 가짐
+- 크게 `원시 타입 (Primitive type)`과 `참조 타입 (Reference type)`으로 분류됨
+  ![](./img/data-01.png)
+
+<br />
+
+### **원시 타입 (Primitive type)**
+
+- `객체 (object)가 아닌 기본 타입`
+- 변수에 해당 타입의 값이 담김
+- 다른 변수에 복사할 때 실제 값이 복사됨
+
+<br />
+
+### **참조 타입 (Reference type)**
+
+- `객체 (object) 타입의 자료형`
+- 변수에 해당 객체의 참조 값이 담김
+- 다른 변수에 복사할 때 참조 값이 복사됨
+
+<br />
 
 | 형        | 설명                               | 비고 |
 | --------- | ---------------------------------- | ---- |
@@ -75,6 +97,68 @@
 | String    | 문자열                             |      |
 | Symbol    | 인스턴스가 고유한 불변의 데이터 형 |      |
 |           |                                    |
+
+<br />
+
+### **숫자 (Number) 타입**
+
+- 정수, 실수 구분 없는 하나의 숫자 타입
+- 부동소수점 형식을 따름
+
+```javascript
+const a = 13; // 양의 정수
+const b = -5; // 음의 정수
+const c = 3.14; // 실수
+const d = 2.998e8; // 거듭제곱
+const e = Infinity; // 양의 무한대
+const f = -Infinity; // 음의 무한대
+const g = NaN; // 산술 연산 불가
+```
+
+<br />
+
+### **문자열 (String) 타입**
+
+- 텍스트 데이터를 나타내는 타입
+- 16비트 유니코드 문자의 집합
+- 작은따옴표 또는 큰따옴표 모두 가능
+
+```javascript
+const firstName = "Brandan";
+const lastName = "Eich";
+const fullName = `${firstName} ${lastName}`;
+
+console.log(fullName); // Brandan Eich
+```
+
+<br />
+
+### **undefined**
+
+- 변수의 값이 없음을 나타내는 데이터 타입
+- 변수 선언 이후 직접 값을 할당하지 않으면, 자동으로 undefined가 할당됨
+
+<br />
+
+### **null**
+
+- 변수의 값이 없음을 나타내는 데이터 타입
+- 변수 선언 이후 직접 값을 할당하지 않으면, 자동으로 undefined가 할당됨
+
+```javascript
+let firstName = null;
+console.log(firstName); // null
+
+typeof null; // object
+```
+
+<br />
+
+### **Boolean 타입**
+
+- 논리적 참 또는 거짓을 나타내는 타입
+- true 또는 false로 표현
+- 조건문 또는 반복문에서 유용하게 사용
 
 <br />
 
