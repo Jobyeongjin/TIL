@@ -66,6 +66,7 @@
 ## **Django**
 
 > - [장고 시작하기](./mds/django/start.md)
+> - [프로젝트 파일 구조](./mds/django/file_list.md)
 
 <br />
 
