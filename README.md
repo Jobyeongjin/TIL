@@ -68,6 +68,7 @@
 > - [서버 기초](./mds/django/server_base.md)
 > - [장고 시작하기](./mds/django/start.md)
 > - [프로젝트 파일 구조](./mds/django/file_list.md)
+> - [요청과 응답](./mds/django/url.md)
 
 <br />
 
