@@ -74,6 +74,7 @@
 >   - [Inheritance](./mds/django/t_inheritance.md)
 > - [Form Data](./mds/django/form_data.md)
 > - [URL mapping](./mds/django/url_mapping.md)
+> - [URL namespace](./mds/django/url_namespace.md)
 
 <br />
 
