@@ -77,6 +77,7 @@
 > - [URL namespace](./mds/django/url_namespace.md)
 > - [Model](./mds/django/model.md)
 > - [CRUD](./mds/django/crud.md)
+> - [Login](./mds/django/login.md)
 
 <br />
 
