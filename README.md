@@ -78,7 +78,8 @@
 > - [Model](./mds/django/model.md)
 > - [CRUD](./mds/django/crud.md)
 > - [Login](./mds/django/login.md)
-> - [회원정보 수정](./mds/django/user_change.md)
+> - [회원정보 수정하기](./mds/django/user_change.md)
+> - [이미지 첨부하기](./mds/django/image.md)
 
 <br />
 
