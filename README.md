@@ -80,6 +80,7 @@
 > - [Login](./mds/django/login.md)
 > - [회원정보 수정하기](./mds/django/user_change.md)
 > - [이미지 첨부하기](./mds/django/image.md)
+> - [댓글 생성하기](./mds/django/comment.md)
 
 <br />
 
