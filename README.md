@@ -78,9 +78,10 @@
 > - [Model](./mds/django/model.md)
 > - [CRUD](./mds/django/crud.md)
 > - [Login](./mds/django/login.md)
-> - [회원정보 수정하기](./mds/django/user_change.md)
-> - [이미지 첨부하기](./mds/django/image.md)
-> - [댓글 생성하기](./mds/django/comment.md)
+> - [Accounts Update](./mds/django/user_change.md)
+> - [Image](./mds/django/image.md)
+> - [Comment](./mds/django/comment.md)
+> - [Like](./mds/django/like.md)
 
 <br />
 
