@@ -1,4 +1,4 @@
-# [Django] 좋아요 만들기 📝
+# [Django] 좋아요 & 팔로우 만들기 📝
 
 > **좋아요와 게시글은 다대다(M:N) 관계**를 가지고, Django에서는 **ManyToManyField로 사용**함으로 관계를 정의합니다.
 
@@ -68,6 +68,8 @@
 
 ---
 
+<br/>
+
 ```
 🙌 User - Article / related manager 🙌
 
@@ -83,3 +85,41 @@ M:N 👈
 - user.like_articles
   : 유저가 좋아요한 게시글
 ```
+
+<br/>
+
+---
+
+## **Follow 📗**
+
+> 유저는 많은 사용자를 팔로우할 수 있고, 많은 사용자는 유저를 팔로우할 수 있습니다. 팔로우(Follow)는 M:N 관계를 가집니다.
+
+<br/>
+
+### **MODEL**
+
+- `'self'`: 유저는 유저 자신을 참조
+- `symmetrical`: 대칭 관계 설정
+  - False: 대칭 관계가 아님 - 페이스북 팔로우, 팔로잉
+  - True: 대칭 관계 - 싸이월드 일촌
+- `related_name`: 역참조시 사용할 이름 지정
+
+![](./img/follow-01.png)
+
+<br/>
+
+### **URL**
+
+![](./img/follow-02.png)
+
+<br/>
+
+### **VIEWS**
+
+![](./img/follow-04.png)
+
+<br/>
+
+### **TEMPLATE**
+
+![](./img/follow-03.png)

@@ -81,7 +81,7 @@
 > - [Accounts Update](./mds/django/user_change.md)
 > - [Image](./mds/django/image.md)
 > - [Comment](./mds/django/comment.md)
-> - [Like](./mds/django/like.md)
+> - [Like & Follow](./mds/django/like.md)
 
 <br />
 
