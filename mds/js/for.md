@@ -87,6 +87,60 @@ for (variable of object) {
 
 ---
 
+```javascript
+// 1. Loops
+// while loop, while the condition is truthy,
+// body code is excuted.
+let i = 3;
+while (i > 0) {
+  console.log(`while: ${i}`);
+  i--;
+}
+
+// do while loop, body code is executed first,
+// then check the condition.
+do {
+  console.log(`do while: ${i}`);
+  i--;
+} while (i > 0);
+
+// for loop, for(begin; codition; step)
+for (i = 3; i > 0; i--) {
+  console.log(`for: ${i}`);
+}
+
+for (let i = 3; i > 0; i = i - 2) {
+  // inline variable declaration
+  console.log(`inline variable for: ${i}`);
+}
+
+// nested loops
+for (let i = 0; i < 10; i++) {
+  for (let j = 0; j < 10; J++) {
+    console.log(`i: ${i}, j: ${j}`);
+  }
+}
+
+// break, continue
+// Q1. iterate form 0 to 10 and print only even numbers(use continue)
+for (let i = 0; i < 11; i++) {
+  if (i % 2 === 0) {
+    continue;
+  }
+  console.log(`q1. ${i}`);
+}
+
+// Q2. iterate from 0 to 10 and print numbers until reaching 8(use break)
+for (let i = 0; i < 11; i++) {
+  if (i > 8) {
+    break;
+  }
+  console.log(`q2. ${i}`);
+}
+```
+
+---
+
 #### **참조 📚**
 
 - 자세한 내용이 궁금하다면 [클릭](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Loops_and_iteration)

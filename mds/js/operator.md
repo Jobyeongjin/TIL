@@ -70,6 +70,112 @@
 
 ---
 
+```javascript
+// 1. String(문자) concatenation
+console.log("my" + "cat");
+console.log("1" + 2);
+console.log(`string literals: 1 + 2 = ${1 + 2}`);
+
+//  2. Numeric(수) operators
+console.log(1 + 1); // add
+console.log(1 - 1); // substract
+console.log(1 / 1); // divide
+console.log(1 * 1); // multiply
+console.log(5 % 2); // remainder
+console.log(2 ** 3); // exponentiation
+
+// 3. Increment and decrement(증가, 감소) operators
+let counter = 2;
+const preIncrement = ++counter;
+// counter = counter + 1;
+// preIncrement = counter;
+const postIncrement = counter++;
+// postIncrement = counter;
+// counter = counter + 1;
+// 먼저 더하고 할당할지, 할당하고 더할지
+const preDecrement = --counter;
+const postDecrement = counter--;
+
+// 4. Assignment(할당) operators
+let x = 3;
+let y = 6;
+x += y; // x = x + y;
+x -= y;
+x *= y;
+x /= y;
+
+// 5. Comparison(비교) operators
+console.log(10 < 6); // less than
+console.log(10 <= 6); // less than or equal
+console.log(10 > 6); // greater than
+console.log(10 >= 6); // greater than or equal
+
+// 6. Logical(논리) operators: || (or), && (and), ! (not)
+const value1 = false;
+const value2 = 4 < 2;
+
+// || (or), findes the first truthy value
+console.log(`or: ${value1 || value2 || check()}`);
+
+// check() 함수 동작 -> 위에서 출력할 때 함수는 무겁기 때문에 뒤쪽에 사용해야 한다💡
+// function check() {
+//     for (let i = 0; i < 10; i++) {
+//         console.log('😱');
+//     }
+//     return true;
+// }
+
+// && (and), finds the first falsy value
+console.log(`and: ${value1 && value2 && check()}`);
+
+// often used to compress long if-stratement
+// nullableObject && nullableObject.something
+if (nullableObject != null) {
+  nullableObject.something;
+}
+
+function check() {
+  for (let i = 0; i < 10; i++) {
+    // wasting time
+    console.log("😱");
+  }
+  return true;
+}
+
+// ! (not)
+console.log(!value1);
+
+// 7. Equality(균등)
+const stringFive = "5";
+const numberFive = 5;
+
+// == loose equality, with type conversion
+console.log(stringFive == numberFive);
+console.log(stringFive != numberFive);
+
+// == strict equality, no type conversion
+console.log(stringFive === numberFive);
+console.log(stringFive !== numberFive);
+
+// object equality by reference
+const ellie1 = { name: "ellie" };
+const ellie2 = { name: "ellie" };
+const ellie3 = ellie1;
+console.log(ellie1 == ellie2); // false
+console.log(ellie1 === ellie2); // false
+console.log(ellie1 === ellie3); // true
+
+// equality - puzzler
+console.log(0 == false); // true
+console.log(0 === false); // false
+console.log("" == false); // ture
+console.log("" === false); // false
+console.log(null == undefined); // true
+console.log(null === undefined); // false
+```
+
+---
+
 #### **참조 📚**
 
 - 자세한 내용이 궁금하다면 [클릭](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Expressions_and_Operators)

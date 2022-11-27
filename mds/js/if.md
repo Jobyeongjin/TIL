@@ -56,6 +56,43 @@ switch (expression) {
 
 ---
 
+```javascript
+// 1. Conditional(조건) operators: if
+// if, else if, else
+const name = "df";
+if (name === "ellie") {
+  console.log("Welcome, Ellie!");
+} else if (name === "coder") {
+  console.log("You are amazine coder");
+} else {
+  console.log("unkwnon");
+}
+
+// 2. Ternary operator: ?
+// condition ? value1 : value2;
+console.log(name === "ellie" ? "yes" : "no");
+
+// 3. Switch statement
+// use for multiple if checks
+// use for enum-like value check
+// use for multiple type checks in TS
+const browser = "IE";
+switch (browser) {
+  case "IE":
+    console.log("go away!");
+    break;
+  case "Chrome":
+  case "Firefox":
+    console.log("love you!");
+    break;
+  default:
+    console.log("same all!");
+    break;
+}
+```
+
+---
+
 #### **참조 📚**
 
 - 자세한 내용이 궁금하다면 [클릭](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
