@@ -39,24 +39,24 @@
 
 ## **CSS**
 
-> - [CSS 기초](./mds/css/css.md)
-> - [position & flex](./mds/css/position.md)
+> - [CSS](./mds/css/css.md)
+> - [Position & Flex](./mds/css/position.md)
 > - [BEM](./mds/css/bem.md)
-> - [배경 이미지](./mds/css/bg-img.md)
-> - [가상요소 선택자](./mds/css/content.md)
-> - [박스 그림자](./mds/css/shadow.md)
+> - [Background Image](./mds/css/bg-img.md)
+> - [Pseudo Element](./mds/css/content.md)
+> - [Box Shadow](./mds/css/shadow.md)
 
 <br />
 
 ## **DB**
 
-> - [데이터베이스(DB)란 ?](./mds/database/db.md)
+> - [Data Base](./mds/database/db.md)
 >   - [Before /](./mds/database/database.md) [After](./mds/database/db02.md)
 > - [WHERE](./mds/database/where.md)
 > - [GROUP BY](./mds/database/gorupby.md)
 > - [CASE & SubQuery](./mds/database/case.md)
 > - [JOIN](./mds/database/join.md)
-> - [모델링](./mds/database/modeling.md)
+> - [Modeling](./mds/database/modeling.md)
 >   - [After](./mds/database/modeling02.md)
 > - [ORM](./mds/database/orm.md)
 > - [QuerySet API](./mds/database/queryset.md)
@@ -65,10 +65,10 @@
 
 ## **Django**
 
-> - [서버 기초](./mds/django/server_base.md)
-> - [장고 시작하기](./mds/django/start.md)
-> - [프로젝트 파일 구조](./mds/django/file_list.md)
-> - [요청과 응답](./mds/django/url.md)
+> - [Basic](./mds/django/server_base.md)
+> - [Django](./mds/django/start.md)
+> - [Project File](./mds/django/file_list.md)
+> - [Request & Response](./mds/django/url.md)
 > - [Template](./mds/django/template.md)
 >   - [Variable routing](./mds/django/routing.md)
 >   - [Inheritance](./mds/django/t_inheritance.md)
@@ -87,36 +87,36 @@
 
 ## **Git**
 
-> - [깃허브에 파일 올리는 과정](./mds/git/git-start.md)
-> - [버전 목록 확인하기](./mds/git/git-log.md)
-> - [브런치에 관한 모든 것](./mds/git/git-branch.md)
-> - [🚨 머지란 ?](./mds/git/git-merge.md)
-> - [깃허브 프로젝트 시작하기](./mds/git/git-project.md)
-> - [깃허브 프로젝트 기여하기](./mds/git/git-pull-request.md)
-> - [버전에서 관리하지 않을 파일들](./mds/git/git-gitignore.md)
-> - [원격 저장소에 올라간 파일 삭제하기](./mds/git/git-delete.md)
-> - [💡 여러 개의 커밋 수정하기](./mds/git/git-rebase.md)
-> - [🚨 깃을 취소하는 방법은 ?](./mds/git/git-cancel.md)
+> - [Git](./mds/git/git-start.md)
+> - [Log](./mds/git/git-log.md)
+> - [Branch](./mds/git/git-branch.md)
+> - [Merge](./mds/git/git-merge.md)
+> - [Clone & Pull](./mds/git/git-project.md)
+> - [Fork](./mds/git/git-pull-request.md)
+> - [.gitignore](./mds/git/git-gitignore.md)
+> - [Rebase](./mds/git/git-rebase.md)
+> - [Cancel](./mds/git/git-cancel.md)
 
 <br />
 
 ## **HTML**
 
-> - [HTML 태그 모음 & 요약](./mds/html/tag.md)
-> - [HTML 기초](./mds/html/web.md)
-> - [시맨틱 태그](./mds/html/semantic.md)
-> - [부트스트랩](./mds/html/bootstrap.md)
+> - [HTML](./mds/html/web.md)
+> - [Basic](./mds/html/tag.md)
+> - [Semantic Tag](./mds/html/semantic.md)
+> - [Bootstrap](./mds/html/bootstrap.md)
 
 <br />
 
 ## **JavaScript**
 
-> - [자바스크립트 기초](./mds/js/base.md)
-> - [데이터 타입](./mds/js/datetype.md)
-> - [연산자](./mds/js/operator.md)
-> - [조건문](./mds/js/if.md)
-> - [반복문](./mds/js/for.md)
-> - [함수](./mds/js/function.md)
+> - [Basic](./mds/js/base.md)
+> - [Data Type](./mds/js/datetype.md)
+> - [Operators](./mds/js/operator.md)
+> - [Conditional](./mds/js/if.md)
+> - [Loop](./mds/js/for.md)
+> - [Function](./mds/js/function.md)
+> - [Object](./mds/js/object.md)
 
 <br />
 
@@ -169,9 +169,9 @@
 
 ## **번외편** 💭
 
-> - [마크다운 사용법](./mds/besides/markdown.md)
-> - [TIL이란 ?](./mds/besides/TIL.md)
-> - [아스키 코드란 ?](./mds/besides/ascii.md)
-> - [Base64 인코딩](./mds/besides/base64.md)
-> - [단축키 모음 👍](./mds/besides/shortcut.md)
-> - [학습 초기 FAQ](./mds/besides/FAQ.md)
+> - [Markdown](./mds/besides/markdown.md)
+> - [TIL](./mds/besides/TIL.md)
+> - [ASCII](./mds/besides/ascii.md)
+> - [Base64 Encoding](./mds/besides/base64.md)
+> - [VScode Shortcut 👍](./mds/besides/shortcut.md)
+> - [KDT FAQ](./mds/besides/FAQ.md)
