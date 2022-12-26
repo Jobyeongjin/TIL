@@ -117,6 +117,7 @@
 > - [Loop](./mds/js/for.md)
 > - [Function](./mds/js/function.md)
 > - [Object](./mds/js/object.md)
+> - [Class](./mds/js/class.md)
 
 <br />
 
