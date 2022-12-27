@@ -110,14 +110,20 @@
 
 ## **JavaScript**
 
-> - [Basic](./mds/js/base.md)
-> - [Data Type](./mds/js/datetype.md)
-> - [Operators](./mds/js/operator.md)
-> - [Conditional](./mds/js/if.md)
-> - [Loop](./mds/js/for.md)
-> - [Function](./mds/js/function.md)
-> - [Object](./mds/js/object.md)
-> - [Class](./mds/js/class.md)
+> - Basic
+>   - [Basic](./mds/js/base.md)
+>   - [Data Type](./mds/js/datetype.md)
+>   - [Operators](./mds/js/operator.md)
+> - Control
+>   - [Conditional](./mds/js/if.md)
+>   - [Loop](./mds/js/for.md)
+> - Object
+>   - [Function](./mds/js/function.md)
+>   - [Object](./mds/js/object.md)
+>   - [Class](./mds/js/class.md)
+> - Built-in Objects
+>   - [Wrapper](./mds/js/wrapper.md)
+>   - [Global](./mds/js/global.md)
 
 <br />
 
