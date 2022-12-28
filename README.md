@@ -124,6 +124,8 @@
 > - Built-in Objects
 >   - [Wrapper](./mds/js/wrapper.md)
 >   - [Global](./mds/js/global.md)
+>   - [Number](./mds/js/number.md)
+>   - [Math](./mds/js/math.md)
 
 <br />
 
