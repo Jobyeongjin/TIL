@@ -126,6 +126,11 @@
 >   - [Global](./mds/js/global.md)
 >   - [Number](./mds/js/number.md)
 >   - [Math](./mds/js/math.md)
+>   - [String](./mds/js/string.md)
+>   - [Date](./mds/js/date.md)
+> - Data Structure
+>   - [Array](./mds/js/array.md)
+
 
 <br />
 
