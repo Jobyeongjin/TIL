@@ -130,6 +130,7 @@
 >   - [Date](./mds/js/date.md)
 > - Data Structure
 >   - [Array](./mds/js/array.md)
+>   - [HOF](./mds/js/HOF.md)
 
 
 <br />
