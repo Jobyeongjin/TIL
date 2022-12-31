@@ -132,6 +132,7 @@
 >   - [Array](./mds/js/array.md)
 >   - [HOF](./mds/js/HOF.md)
 >   - [Iteration](./mds/js/iteration.md)
+>   - [Spread](./mds/js/spread.md)
 
 
 <br />
