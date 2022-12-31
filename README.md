@@ -131,6 +131,7 @@
 > - Data Structure
 >   - [Array](./mds/js/array.md)
 >   - [HOF](./mds/js/HOF.md)
+>   - [Iteration](./mds/js/iteration.md)
 
 
 <br />
