@@ -133,6 +133,8 @@
 >   - [HOF](./mds/js/HOF.md)
 >   - [Iteration](./mds/js/iteration.md)
 >   - [Spread](./mds/js/spread.md)
+>   - [Set](./mds/js/set.md)
+>   - [Map](./mds/js/map.md)
 
 
 <br />
