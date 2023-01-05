@@ -135,6 +135,7 @@
 >   - [Spread](./mds/js/spread.md)
 >   - [Set](./mds/js/set.md)
 >   - [Map](./mds/js/map.md)
+>   - [More-Operators](./mds/js/more-operators.md)
 
 
 <br />
