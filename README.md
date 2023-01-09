@@ -136,6 +136,9 @@
 >   - [Set](./mds/js/set.md)
 >   - [Map](./mds/js/map.md)
 >   - [More-Operators](./mds/js/more-operators.md)
+> - Async
+>   - [Callback](./mds/js/callback.md)
+>   - [Promise](./mds/js/promise.md)
 
 
 <br />
