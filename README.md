@@ -139,6 +139,7 @@
 > - Async
 >   - [Callback](./mds/js/callback.md)
 >   - [Promise](./mds/js/promise.md)
+>   - [Async](./mds/js/async.md)
 
 
 <br />
