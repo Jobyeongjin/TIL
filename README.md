@@ -142,6 +142,7 @@
 >   - [Async](./mds/js/async.md)
 > - High Class
 >   - [Scope](./mds/js/scope.md)
+>   - [Garbage](./mds/js/garbage.md)
 
 <br />
 
