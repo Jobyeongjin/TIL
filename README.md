@@ -143,6 +143,7 @@
 > - High Class
 >   - [Scope](./mds/js/scope.md)
 >   - [Garbage](./mds/js/garbage.md)
+>   - [hoisting](./mds/js/hoisting.md)
 
 <br />
 
