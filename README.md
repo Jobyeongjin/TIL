@@ -144,6 +144,7 @@
 >   - [Scope](./mds/js/scope.md)
 >   - [Garbage](./mds/js/garbage.md)
 >   - [hoisting](./mds/js/hoisting.md)
+>   - [Closures](./mds/js/closures.md)
 
 <br />
 
