@@ -145,6 +145,7 @@
 >   - [Garbage](./mds/js/garbage.md)
 >   - [hoisting](./mds/js/hoisting.md)
 >   - [Closures](./mds/js/closures.md)
+>   - [This](./mds/js/this.md)
 
 <br />
 
