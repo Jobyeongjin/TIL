@@ -147,6 +147,8 @@
 >   - [hoisting](./mds/js/hoisting.md)
 >   - [Closures](./mds/js/closures.md)
 >   - [This](./mds/js/this.md)
+> - Events
+>   - [Event](./mds/js/event.md)
 
 <br />
 
