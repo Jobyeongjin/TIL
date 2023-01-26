@@ -46,6 +46,7 @@
 > - [Pseudo Element](./mds/css/content.md)
 > - [Box Shadow](./mds/css/shadow.md)
 > - [SCSS](./mds/css/scss.md)
+> - [CSS library](./mds/css/library.md)
 
 <br />
 
