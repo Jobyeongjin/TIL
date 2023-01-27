@@ -15,6 +15,7 @@
 > - [Git](#git)
 > - [HTML](#html)
 > - [JavaScript](#javascript)
+> - [TypeScript](#typescript)
 > - [Python](#python)
 
 <br />
@@ -150,6 +151,13 @@
 >   - [This](./mds/js/this.md)
 > - Events
 >   - [Event](./mds/js/event.md)
+
+<br />
+
+## **TypeScript**
+
+> - Basic
+>   - [Basic](./mds/ts/base.md)
 
 <br />
 
