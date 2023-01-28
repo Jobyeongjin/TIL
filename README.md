@@ -158,6 +158,7 @@
 
 > - Basic
 >   - [Basic](./mds/ts/base.md)
+>   - [Data Type](./mds/ts/data-type.md)
 
 <br />
 
