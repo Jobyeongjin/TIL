@@ -156,9 +156,9 @@
 
 ## **TypeScript**
 
-> - Basic
->   - [Basic](./mds/ts/base.md)
->   - [Data Type](./mds/ts/data-type.md)
+> - [Basic](./mds/ts/base.md)
+> - [Data Type](./mds/ts/data-type.md)
+> - [System](./mds/ts/system.md)
 
 <br />
 
