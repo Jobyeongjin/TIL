@@ -159,6 +159,7 @@
 > - [Basic](./mds/ts/base.md)
 > - [Data Type](./mds/ts/data-type.md)
 > - [System](./mds/ts/system.md)
+> - [Compatibility](./mds/ts/compatibility.md)
 
 <br />
 
