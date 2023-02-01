@@ -160,6 +160,7 @@
 > - [Data Type](./mds/ts/data-type.md)
 > - [System](./mds/ts/system.md)
 > - [Compatibility](./mds/ts/compatibility.md)
+> - [Alias](./mds/ts/alias.md)
 
 <br />
 
