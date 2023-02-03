@@ -161,6 +161,7 @@
 > - [System](./mds/ts/system.md)
 > - [Compatibility](./mds/ts/compatibility.md)
 > - [Alias](./mds/ts/alias.md)
+> - [Compiler](./mds/ts/compiler.md)
 
 <br />
 
