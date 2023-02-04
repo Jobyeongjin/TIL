@@ -162,6 +162,7 @@
 > - [Compatibility](./mds/ts/compatibility.md)
 > - [Alias](./mds/ts/alias.md)
 > - [Compiler](./mds/ts/compiler.md)
+> - [Interface](./mds/ts/interface.md)
 
 <br />
 
