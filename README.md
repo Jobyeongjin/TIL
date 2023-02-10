@@ -163,6 +163,7 @@
 > - [Alias](./mds/ts/alias.md)
 > - [Compiler](./mds/ts/compiler.md)
 > - [Interface](./mds/ts/interface.md)
+> - [Class](./mds/ts/class.md)
 
 <br />
 
