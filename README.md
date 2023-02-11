@@ -164,6 +164,7 @@
 > - [Compiler](./mds/ts/compiler.md)
 > - [Interface](./mds/ts/interface.md)
 > - [Class](./mds/ts/class.md)
+> - [OOP](./mds/ts/oop.md)
 
 <br />
 
