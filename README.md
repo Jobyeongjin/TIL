@@ -212,6 +212,7 @@
 > - [별표 \*](./mds/python/py-asterisk.md)
 > - [델타탐색](./mds/python/py-delta.md)
 > - [익명함수](./mds/python/py-lambda.md)
+> - [크롤링](./mds/python/crawling.md)
 
 <br />
 
